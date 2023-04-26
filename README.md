@@ -12,12 +12,12 @@ This guide summarizes the characteristics of how language models behave in appli
 
 The following are a set of guides on conversational UX developed by us (UXAI.DEV). Guides are work in progress.
 
-- [What is Conversational UX?](/guides/intro.md)
-- [Adoption of Conversational UX](/guides/adoption.md)
-- [Conversational UX Characteristics](/guides/attributes.md)
-- [Conversational UX Issues](/guides/issues.md)
-- [General UX Metrics](/guides/metrics.md)
-- [Fallback](/guides/fallback.md)
+- [What is Conversational UX?](/guides/en/intro.md)
+- [Adoption of Conversational UX](/guides/en/adoption.md)
+- [Conversational UX Characteristics](/guides/en/attributes.md)
+- [Conversational UX Issues](/guides/en/issues.md)
+- [General UX Metrics](/guides/en/metrics.md)
+- [Fallback](/guides/en/fallback.md)
 
 [日本語版](/guides/ja)
 

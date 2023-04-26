@@ -26,6 +26,6 @@ Don't be evil (邪悪になるな) の方針の推進になるかもしれませ
 
 ---
 
-[前のセクション (会話型 UX の問題点) ](/guides/issues.md)
+[前のセクション (会話型 UX の問題点) ](/guides/ja/issues.md)
 
-[次のセクション (Fallback) ](/guides/fallback.md)
+[次のセクション (Fallback) ](/guides/ja/fallback.md)

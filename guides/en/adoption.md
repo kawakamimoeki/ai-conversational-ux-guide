@@ -33,6 +33,6 @@ Also, take a fresh look at the challenges users have faced in the past and see i
 
 ---
 
-[Previous Section (What is Conversational UX?)](/guides/intro.md)
+[Previous Section (What is Conversational UX?)](/guides/en/intro.md)
 
-[Next Section (Conversational UX Characteristics) ](/guides/attributes.md)
+[Next Section (Conversational UX Characteristics) ](/guides/en/attributes.md)

@@ -12,6 +12,6 @@ Given the nature of conversational UX, these applications are always next to the
 
 --- ...
 
-[Previous Section (Conversational UX Characteristics)](/guides/attributes.md)
+[Previous Section (Conversational UX Characteristics)](/guides/en/attributes.md)
 
-[Next Section (General UX metrics) ](/guides/metrics.md)
+[Next Section (General UX metrics) ](/guides/en/metrics.md)

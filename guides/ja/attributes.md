@@ -27,6 +27,6 @@ Bing AI はプロンプトの候補をひとつ前のアシスタントのメッ
 
 ---
 
-[前のセクション (会話型 UX の採用) ](/guides/adoption.md)
+[前のセクション (会話型 UX の採用) ](/guides/ja/adoption.md)
 
-[次のセクション (会話型 UX の問題点) ](/guides/issues.md)
+[次のセクション (会話型 UX の問題点) ](/guides/ja/issues.md)

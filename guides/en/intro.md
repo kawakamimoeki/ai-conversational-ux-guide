@@ -26,4 +26,4 @@ Due to the fact that language models are models that deal with natural language,
 
 --- [Next Section (Conversational UX)
 
-[Next Section (Adoption of Conversational UX)](/guides/adoption.md)
+[Next Section (Adoption of Conversational UX)](/guides/en/adoption.md)

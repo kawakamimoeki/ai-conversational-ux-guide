@@ -26,4 +26,4 @@
 
 ---
 
-[次のセクション (会話型 UX の採用) ](/guides/adoption.md)
+[次のセクション (会話型 UX の採用) ](/guides/ja/adoption.md)

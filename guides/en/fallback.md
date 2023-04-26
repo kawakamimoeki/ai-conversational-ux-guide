@@ -1,6 +1,6 @@
 # Fallback
 
-As mentioned in [Conversational UX Issues](/guides/issues.md), it is quite difficult to guess user input patterns, so if your application cannot handle it, you need to fall back to another application or process.
+As mentioned in [Conversational UX Issues](/guides/en/issues.md), it is quite difficult to guess user input patterns, so if your application cannot handle it, you need to fall back to another application or process.
 
 Here is an example of this fallback.
 
@@ -15,4 +15,4 @@ A. I cannot provide real-time weather information, but to check the latest weath
 
 ---
 
-[Previous Section (General UX metrics)](/guides/metrics.md)
+[Previous Section (General UX metrics)](/guides/en/metrics.md)

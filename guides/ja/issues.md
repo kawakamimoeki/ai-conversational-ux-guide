@@ -12,6 +12,6 @@
 
 ---
 
-[前のセクション (会話型 UX の特性) ](/guides/attributes.md)
+[前のセクション (会話型 UX の特性) ](/guides/ja/attributes.md)
 
-[次のセクション (一般的な UX のメトリクス) ](/guides/metrics.md)
+[次のセクション (一般的な UX のメトリクス) ](/guides/ja/metrics.md)

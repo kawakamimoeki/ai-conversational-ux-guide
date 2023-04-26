@@ -27,6 +27,6 @@ Users may not yet fully understand the properties of the language model. Applica
 
 ---
 
-[Previous Section (Adopting Conversational UX)](/guides/adoption.md)
+[Previous Section (Adopting Conversational UX)](/guides/en/adoption.md)
 
-[Next Section (Issues with Conversational UX) ](/guides/issues.md)
+[Next Section (Issues with Conversational UX) ](/guides/en/issues.md)

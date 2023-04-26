@@ -33,6 +33,6 @@
 
 ---
 
-[前のセクション (会話型 UX とは) ](/guides/intro.md)
+[前のセクション (会話型 UX とは) ](/guides/ja/intro.md)
 
-[次のセクション (会話型 UX の特性) ](/guides/attributes.md)
+[次のセクション (会話型 UX の特性) ](/guides/ja/attributes.md)

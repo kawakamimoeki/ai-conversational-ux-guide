@@ -26,6 +26,6 @@ It implies that in the long run, a company that does good for the world, even at
 
 ---
 
-[Previous Section (Conversational UX Issues)](/guides/issues.md)
+[Previous Section (Conversational UX Issues)](/guides/en/issues.md)
 
-[Next Section (Fallback) ](/guides/fallback.md)
+[Next Section (Fallback) ](/guides/en/fallback.md)
