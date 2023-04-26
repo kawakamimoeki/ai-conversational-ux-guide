@@ -1,32 +1,32 @@
-# 会話型 UX の特性
+# Conversational UX characteristics
 
-## 自然言語による入力
+## Natural language input
 
-会話型 UX を採用したアプリケーションは、ユーザーからの入力として、あらゆる自然言語によるメッセージ（プロンプト）を想定しなければなりません。
+An application with a conversational UX should expect any natural language message (prompt) as input from the user.
 
-ユーザーの入力の時点でバリデーションを行うことは難しいと思われます。
-これは、自然言語のメッセージのパターンは無数に存在することに由来します。これらの入力は、従来のアプリケーションの入力とは異なり、単語やキーワードでなく、選択式でもありません。
+Validation at the point of user input can be difficult.
+This is due to the fact that there are countless patterns of natural language messages. Unlike traditional application input, these inputs are not words or keywords, nor are they selective.
 
-また、アプリケーションが入力を処理可能かどうかは、実際に言語モデルがプロンプトを解釈するまで知り得ません。
+Also, whether the application can process the input cannot be known until the language model actually interprets the prompt.
 
-よって、会話型 UX でのユーザーの入力のパターンはほとんど無限であると考えて良いでしょう。
+Thus, the patterns of user input in a conversational UX are almost infinite.
 
-## ユーザーのアプリケーションについての学習
+## Learning about the user's application
 
-ユーザーが会話型 UX のアプリケーションの操作方法について学習する機会は、従来のものよりも限られています。これは、UI の基本構成がプロンプトの入力欄だけであり、これまでのようにボタンやメニューの利用が限定的になるからです。
+Users have more limited opportunities to learn how to interact with applications in a conversational UX than in a traditional one. This is because the basic structure of the UI consists only of prompt input fields, limiting the use of buttons and menus as in the past.
 
-また、会話型 UX の歴史がまだ十分に長くないことから、ユーザーはこの体験に不慣れです。このことは学習をより丁寧に行わないとユーザーは迷子になってしまう可能性があることを意味します。
+In addition, users are unfamiliar with this experience, as conversational UX has not been around long enough. This means that without more careful learning, users could get lost.
 
-Bing AI はプロンプトの候補をひとつ前のアシスタントのメッセージの直後に提示しています。これは、アプリケーションの利用方法についてユーザーを補助する手段のひとつです。
+Bing AI presents the prompt suggestions immediately after one previous Assistant message. This is one means of assisting the user in how to use the application.
 
-これらの学習補助の方法については後ほど解説しますが、ここでは、ユーザーのアプリケーションについての学習の機会が少ないことと、まだ十分に慣れていないことのみ触れておきます。
+We will discuss these learning aids later, but for now, we will only mention that the user has not had much opportunity to learn about the application and is not yet fully familiar with it.
 
-## ユーザーの AI への期待
+## User Expectations of AI
 
-ユーザーはまだ言語モデルの特性を十分に理解していない可能性があります。言語モデルを処理系の中心に据えたアプリケーションは、何が可能で何が不可能なのか、ユーザーは想像がついていない場合があり、最悪の場合、言語モデルの能力を過大に予測していることも考えられます。例えば、人間の言葉と意図と、指示を完全に理解し、実現できる能力があると錯覚したり、現実世界のリアルタイムの状況を完全に把握しているといった錯覚をする可能性は十分に高いです。
+Users may not yet fully understand the properties of the language model. Applications that place language models at the center of their processing systems may not have a clear idea of what is possible and what is not, and in the worst case, users may overestimate the capabilities of language models. For example, it is quite possible that the user may have an illusion of full understanding of human language and intent and the ability to fully understand and realize instructions, or the illusion of full understanding of real-time real-world situations.
 
 ---
 
-[Previous Section (会話型 UX の採用) ](/guides/adoption.md)
+[Previous Section (Adopting Conversational UX)](/guides/adoption.md)
 
-[Next Section (会話型 UX の問題点) ](/guides/issues.md)
+[Next Section (Issues with Conversational UX) ](/guides/issues.md)

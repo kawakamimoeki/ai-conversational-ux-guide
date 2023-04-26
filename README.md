@@ -1,21 +1,25 @@
 # Conversational UX Guide
 
-言語モデルを利用したアプリケーションの普及により、アプリケーション開発者は、未知なる会話型 UX について考えることになりました。
-このガイドでは、言語モデルのアプリケーション上での振る舞いの特性と会話型 UX を設計する際の指針についてまとめています。
-
 The proliferation of applications that use language models has caused application developers to consider the unknown conversational UX.
 This guide summarizes the characteristics of how language models behave in applications and provides guidelines for designing conversational UX.
+
+---
+
+言語モデルを利用したアプリケーションの普及により、アプリケーション開発者は、未知なる会話型 UX について考えることになりました。
+このガイドでは、言語モデルのアプリケーション上での振る舞いの特性と会話型 UX を設計する際の指針についてまとめています。
 
 ## ⛳️ Guide
 
 The following are a set of guides on conversational UX developed by us (UXAI.DEV). Guides are work in progress.
 
-- [会話型 UX とは](/guides/intro.md)
-- [会話型 UX の採用](/guides/adoption.md)
-- [会話型 UX の特性](/guides/attributes.md)
-- [会話型 UX の問題点](/guides/issues.md)
-- [一般的な UX のメトリクス](/guides/metrics.md)
+- [What is Conversational UX?](/guides/intro.md)
+- [Adoption of Conversational UX](/guides/adoption.md)
+- [Conversational UX Characteristics](/guides/attributes.md)
+- [Conversational UX Issues](/guides/issues.md)
+- [General UX Metrics](/guides/metrics.md)
 - [Fallback](/guides/fallback.md)
+
+[日本語版](/guides/ja)
 
 ## 📃 Blogs
 

@@ -1,18 +1,18 @@
 # Fallback
 
-[会話型 UX の問題点](/guides/issues.md) で述べたように、ユーザーの入力パターンを推測することはかなり難しいので、もしアプリケーションで対応できない場合には別のアプリケーションや処理にフォールバックする必要があります。
+As mentioned in [Conversational UX Issues](/guides/issues.md), it is quite difficult to guess user input patterns, so if your application cannot handle it, you need to fall back to another application or process.
 
-このフォールバックの例を載せます。
+Here is an example of this fallback.
 
-## 既存の別のアプリケーションへの誘導
+## Directing users to another existing application
 
-以下は ChatGPT の例です。ここでは完全に機能を受け渡すのではなく、誘導のためのメッセージにとどめています。
+Here is an example of ChatGPT. Here we do not pass on the full functionality, but only a guiding message.
 
 ```
-Q. 今日の天気を教えて
-A. 私はリアルタイムの天気情報を提供することはできませんが、最新の天気予報を確認するためには、天気予報のウェブサイトやアプリをご利用いただくか、検索エンジンで「今日の天気」と検索していただくことをおすすめします。
+Q. Tell me what the weather is like today.
+A. I cannot provide real-time weather information, but to check the latest weather forecast, we recommend you use a weather website or application, or search for "today's weather" on a search engine.
 ```
 
 ---
 
-[Previous Section (一般的な UX のメトリクス)](/guides/metrics.md)
+[Previous Section (General UX metrics)](/guides/metrics.md)

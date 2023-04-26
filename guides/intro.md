@@ -1,29 +1,29 @@
-# 会話型 UX とは
+# What is Conversational UX?
 
-## 概要
+## Overview
 
-言語モデルをアプリケーションに組み込んだ際に、アプリケーションのインターフェースは、自然言語となります。
-これが、ユーザーはアプリケーションと会話するように見えることから会話型 UX という言葉を利用しています。
+When a language model is incorporated into an application, the application interface becomes natural language.
+This is why we use the term conversational UX, as the user appears to be conversing with the application.
 
-このような UX を最初に普及させたのは OpenAI です。彼らは、ChatGPT という大言語モデルをリリースしました。
-これは、特に会話型 AI としての性能を重視してチューニングされていおり、質問応答、文書生成、要約作成など、多様なタスクをこなすことができます。
+OpenAI was the first to popularize this type of UX. They released a large language model called ChatGPT.
+It is tuned specifically for performance as conversational AI and can perform a wide variety of tasks, including question answering, document generation, and summarization.
 
-## メッセージ
+## Messages
 
-会話型 UX では、ユーザーとユーザーの指示を受けるアシスタント、そして、会話の前提を定義するシステムが存在しています。
+In a conversational UX, there is a user, an assistant that takes instructions from the user, and a system that defines the premise of the conversation.
 
-会話は、メッセージによって構成されます。
+Conversations are composed of messages.
 
-## プロンプト
+## Prompt
 
-また、ユーザーからアシスタントへのメッセージはプロンプトと呼ばれることが一般的です。
+Messages from the user to the assistant are also commonly referred to as prompts.
 
-例えば、質問応答のシナリオでは、プロンプトは質問となります。「東京の人口はどのくらいですか？」というプロンプトに対して、AI モデルは関連する情報を基にした回答を生成します。プロンプトは、モデルの出力品質や関連性に大きな影響を与えるため、効果的なプロンプトの作成が重要です。
+For example, in a question-answer scenario, the prompt is a question. What is the population of Tokyo? to which the AI model generates an answer based on relevant information. Since the prompt has a significant impact on the quality and relevance of the model's output, it is important to create effective prompts.
 
-## 自然言語による操作
+## Natural Language Manipulation
 
-言語モデルが自然言語を扱うモデルであることに由来し、メッセージは自然言語によって構成されます。その結果、会話型 UX を採用したアプリケーションでは、ユーザーは自然言語で操作を実行することになります。
+Due to the fact that language models are models that deal with natural language, messages are composed by natural language. As a result, in applications employing conversational UX, users perform operations in natural language.
 
----
+--- [Next Section (Conversational UX)
 
-[Next Section (会話型 UX の採用) ](/guides/adoption.md)
+[Next Section (Adoption of Conversational UX)](/guides/adoption.md)

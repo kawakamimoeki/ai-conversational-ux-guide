@@ -1,38 +1,38 @@
-# 会話型 UX の採用
+# Adopt a conversational UX
 
-新しい技術が誕生した場合の開発者の反応には 2 つあります。
+When a new technology comes along, developers react in two ways:
 
-1. ずっとやりたかったあの機能はこの技術なら実現できる
-2. この技術を使った何かを作ってみたい
+1. That function we have always wanted to do can be achieved with this technology.
+2. We want to make something using this technology.
 
-まず、これのうち 1 について議論します。
+First, let's discuss the first of these.
 
-## 夢に見た機能の実現
+## Realize the function you dreamed of
 
-この場合にはまず、完全な仕様と言語モデルの限界を照らし合わせ、現時点での妥協点を見出す必要があります。
+In this case, it is first necessary to compare the complete specification with the limitations of the language model and find a compromise at this point.
 
-言語モデルは現時点では万能な AI ではなく、どんな機能でも実現可能であるとは限りません。
-また、言語モデルを扱うための知識やノウハウが組織にまだ浸透していないうちは、言語モデルの機能を最大限に発揮することは難しいです。
+The language model is not a universal AI at this time, and not every feature is feasible.
+Also, it is difficult to maximize the functionality of language models while the knowledge and know-how to handle them has not yet permeated the organization.
 
-まずは、現時点で自分たちの組織が実現可能な範囲にスコープを絞り、小さくはじめることが大切です。
-まず動くプロトタイプを作ってみて、もしかすると考えていた機能があまり有用でないことに気がつくかもしれません。
+It is important to start small, narrowing down the scope to what is feasible for your organization at this point.
+Try building a working prototype first, and you may find that the functionality you had in mind is not so useful.
 
-## インスピレーションを得る
+## Get Inspired
 
-後者は、新しい技術から機能のアイデアを発想すると表現することができると思います。
-この場合にはまず、技術から機能への視点から、ユーザーから機能への視点へ切り替えて機能の有用性について議論する必要があります。
+The latter can be expressed as coming up with ideas for features from new technology.
+In this case, we first need to switch from a technology-to-feature perspective to a user-to-feature perspective to discuss the usefulness of the feature.
 
-プロンプト型の UI が流行っているので、ユーザーにとって魅力的に映るのではないか、というマーケティング的な視点が必ずしも悪であるとは言えませんが、
-ユーザーが長期的にプロダクトを利用してもらえるかどうかは、ユーザーにとって機能が使いやすいかどうかに左右されるので、マーケティングとユーザビリティのバランスは、長期的な利益に対しては必要なことです。
+I would not necessarily say that the marketing perspective that prompt-type UI is in vogue and therefore might be attractive to users is necessarily a bad thing, though,
+Whether users will use a product in the long term depends on whether a feature is easy for them to use, so a balance between marketing and usability is necessary for the long-term benefit of the product.
 
-会話型 UX と自分たちのアプリケーションとの組み合わせを発想する際に大切なのは、アプリケーションが本来の価値にたちかえることです。
+When thinking about how to combine a conversational UX with your application, it is important to consider the inherent value of the application.
 
-例えば、ユーザーが本当に必要な商品を探すためのアプリケーションの場合は、会話型 UX が最適な商品を探す上でどんな役割を担えるかということを吟味します。
+For example, if the application is designed to help users find the products they really need, we should examine what role the conversational UX can play in helping them find the best products.
 
-また、これまでのユーザーの課題点を改めて見つめ直し、その課題のうち会話型 UX で改善できるものがないかどうかを検討してください。
+Also, take a fresh look at the challenges users have faced in the past and see if any of those challenges can be improved with a conversational UX.
 
 ---
 
-[Previous Section (会話型 UX とは) ](/guides/intro.md)
+[Previous Section (What is Conversational UX?)](/guides/intro.md)
 
-[Next Section (会話型 UX の特性) ](/guides/attributes.md)
+[Next Section (Conversational UX Characteristics) ](/guides/attributes.md)

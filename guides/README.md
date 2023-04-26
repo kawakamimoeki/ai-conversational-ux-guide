@@ -1,10 +1,10 @@
 # ⛳️ Guide
 
-The following are a set of guides on conversational UX developed by us (UXAI.DEV). Guides are work in progress.
+以下は、当組織（UXAI.DEV）が構築した会話型 UX に関するガイドのセットです。ガイドは進行中です。
 
-- [会話型 UX とは](/guides/intro.md)
-- [会話型 UX の採用](/guides/adoption.md)
-- [会話型 UX の特性](/guides/attributes.md)
-- [会話型 UX の問題点](/guides/issues.md)
-- [一般的な UX のメトリクス](/guides/metrics.md)
+- [What is Conversational UX?](/guides/intro.md)
+- [Adoption of Conversational UX](/guides/adoption.md)
+- [Conversational UX Characteristics](/guides/attributes.md)
+- [Conversational UX Issues](/guides/issues.md)
+- [General UX Metrics](/guides/metrics.md)
 - [Fallback](/guides/fallback.md)

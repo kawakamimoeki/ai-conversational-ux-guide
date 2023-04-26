@@ -1,31 +1,31 @@
-## 一般的な UX のメトリクス
+## General UX metrics
 
-## Task Success Rate (タスクの成功率)
+## Task Success Rate
 
-ここで言うタスクというのは、ユーザーがプロダクトでの目的を達成するための一つ一つのステップのことです。
-ユーザーは、目標を達成する前に、製品に不信感を抱いたり、操作が複雑であったりすると、目標を諦めてしまいます。
+Tasks in this context are the individual steps that users take to achieve their goals in a product.
+Users will give up on a goal if they distrust the product or find it too complicated to operate before achieving it.
 
-## Time-on-Task （タスクの実行時間）
+## Time-on-Task (time to perform a task)
 
-目標達成までの時間は、そのために必要な操作がどれだけ少ないか、または操作がどれだけ分かりやすいかなどに影響されます。
+The time it takes to accomplish a goal is influenced by how few operations are required to accomplish it, or how easy it is to understand the operation, etc.
 
-## Search vs Navigation (検索・ナビゲーション比率)
+## Search vs Navigation (Search/Navigation Ratio)
 
-ユーザーが喜ぶのは、プロダクトを一つ一つ操作して何とか必要な情報を得ることではなく、その情報が勝手に空から降ってくることです。
-検索というのは、ユーザーに情報を探す努力を強要することになるので、出来るだけ減らし、代わりにナビゲーション、つまりユーザーを誘導するためのメニューやサジェストを利用してください。
+Users are not happy when they have to navigate through a product one by one to get the information they need, but when that information falls out of the sky on its own.
+Search forces users to make an effort to search for information, so reduce it as much as possible, and instead use navigation, i.e., menus and suggestions to guide users.
 
-## System Usability Scale (システムユーザビリティスケール)
+## System Usability Scale
 
-あくまで主観的な観点になりますが、プロダクトの印象について、ユーザーに直接聞いてみるのは、プロダクト改善のヒントを得る方法のひとつです。
+Although it is only a subjective perspective, asking users directly about their impressions of a product is one way to get hints for product improvement.
 
-## Customer Satisfaction (顧客満足度)
+## Customer Satisfaction
 
-ユーザーの気持ちを質問することで、プロダクトの印象を改善するのに役立ちます。
-Don't be evil (邪悪になるな) の方針の推進になるかもしれません。これは Google の企業行動規範の一つで、
-長期的に見れば、短期的な利益を多少犠牲にしても、世界のために良いことをする会社のほうが、株主として、またその他のあらゆる意味でより良い結果をもたらすという意味が込められています。
+Asking questions about how users feel will help improve their impression of the product.
+This could be a way to promote the "Don't be evil" policy. This is part of Google's Code of Business Conduct,
+It implies that in the long run, a company that does good for the world, even at the cost of some short-term profit, will do better as a shareholder and in every other way.
 
 ---
 
-[Previous Section (会話型 UX の問題点) ](/guides/issues.md)
+[Previous Section (Conversational UX Issues)](/guides/issues.md)
 
 [Next Section (Fallback) ](/guides/fallback.md)

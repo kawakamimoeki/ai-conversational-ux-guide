@@ -1,17 +1,17 @@
-# 会話型 UX の問題点
+# Conversational UX issues
 
-## ユーザーの自由度が高すぎる
+## Users have too much freedom
 
-会話型 UX が登場してからしばらく経ちましたが、ユーザーの利用量や利用方法の幅はまだまだ差があるように感じます。上手く使いこなしている人たちがいる一方で、どう使ったらいいのか分からない人たちが相当するいると思います。これは会話型 UX の特性上解決するのが難しい問題です。
+Conversational UX has been around for a while now, but I feel that there is still a gap in the amount and range of usage by users. While there are people who are using it well, I think there are quite a few people who don't know how to use it. This is a difficult problem to solve due to the nature of conversational UX.
 
-先述した通り会話型 UX の入力は自然言語であるため、何ができて、何ができないのか、分からないまま、途方に暮れてしまうということは考えられます。
+As mentioned earlier, the input for conversational UX is natural language, so it is conceivable that people will be at a loss, not knowing what they can and cannot do.
 
-## ユーザーの期待を裏切る可能性
+## Potential to disappoint users
 
-会話型 UX の特性を踏まえると、これらのアプリケーションでは、「なんだこれはできないのか」でユーザーが離脱てしまう可能性と常に隣り合わせになります。例えば、たとえ ChatGPT であってもそのような現象が起きるのをよく目にします。例えば、現在の天気を聞いたり、知人についての情報を聞いたりして、期待通りでない返答が返ってきたりします。
+Given the nature of conversational UX, these applications are always next to the possibility that users will leave with a "what the heck can't I do this? For example, we often see this happen even with ChatGPT. For example, asking for the current weather or information about an acquaintance may result in a response that is not what you expect.
 
----
+--- ...
 
-[Previous Section (会話型 UX の特性) ](/guides/attributes.md)
+[Previous Section (Conversational UX Characteristics)](/guides/attributes.md)
 
-[Next Section (一般的な UX のメトリクス) ](/guides/metrics.md)
+[Next Section (General UX metrics) ](/guides/metrics.md)
