@@ -24,9 +24,3 @@ We will discuss these learning aids later, but for now, we will only mention tha
 ## User Expectations of AI
 
 Users may not yet fully understand the properties of the language model. Applications that place language models at the center of their processing systems may not have a clear idea of what is possible and what is not, and in the worst case, users may overestimate the capabilities of language models. For example, it is quite possible that the user may have an illusion of full understanding of human language and intent and the ability to fully understand and realize instructions, or the illusion of full understanding of real-time real-world situations.
-
----
-
-[Previous Section (Adopting Conversational UX)](/guides/en/adoption.md)
-
-[Next Section (Issues with Conversational UX) ](/guides/en/issues.md)

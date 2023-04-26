@@ -12,7 +12,3 @@ Here is an example of ChatGPT. Here we do not pass on the full functionality, bu
 Q. Tell me what the weather is like today.
 A. I cannot provide real-time weather information, but to check the latest weather forecast, we recommend you use a weather website or application, or search for "today's weather" on a search engine.
 ```
-
----
-
-[Previous Section (General UX metrics)](/guides/en/metrics.md)

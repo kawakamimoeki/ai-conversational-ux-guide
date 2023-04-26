@@ -10,8 +10,3 @@ As mentioned earlier, the input for conversational UX is natural language, so it
 
 Given the nature of conversational UX, these applications are always next to the possibility that users will leave with a "what the heck can't I do this? For example, we often see this happen even with ChatGPT. For example, asking for the current weather or information about an acquaintance may result in a response that is not what you expect.
 
---- ...
-
-[Previous Section (Conversational UX Characteristics)](/guides/en/attributes.md)
-
-[Next Section (General UX metrics) ](/guides/en/metrics.md)

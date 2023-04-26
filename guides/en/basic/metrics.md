@@ -23,9 +23,3 @@ Although it is only a subjective perspective, asking users directly about their 
 Asking questions about how users feel will help improve their impression of the product.
 This could be a way to promote the "Don't be evil" policy. This is part of Google's Code of Business Conduct,
 It implies that in the long run, a company that does good for the world, even at the cost of some short-term profit, will do better as a shareholder and in every other way.
-
----
-
-[Previous Section (Conversational UX Issues)](/guides/en/issues.md)
-
-[Next Section (Fallback) ](/guides/en/fallback.md)

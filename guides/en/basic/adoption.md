@@ -30,9 +30,3 @@ When thinking about how to combine a conversational UX with your application, it
 For example, if the application is designed to help users find the products they really need, we should examine what role the conversational UX can play in helping them find the best products.
 
 Also, take a fresh look at the challenges users have faced in the past and see if any of those challenges can be improved with a conversational UX.
-
----
-
-[Previous Section (What is Conversational UX?)](/guides/en/intro.md)
-
-[Next Section (Conversational UX Characteristics) ](/guides/en/attributes.md)

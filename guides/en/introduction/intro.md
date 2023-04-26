@@ -23,7 +23,3 @@ For example, in a question-answer scenario, the prompt is a question. What is th
 ## Natural Language Manipulation
 
 Due to the fact that language models are models that deal with natural language, messages are composed by natural language. As a result, in applications employing conversational UX, users perform operations in natural language.
-
---- [Next Section (Conversational UX)
-
-[Next Section (Adoption of Conversational UX)](/guides/en/adoption.md)
