@@ -15,4 +15,4 @@ A. 私はリアルタイムの天気情報を提供することはできませ�
 
 ---
 
-[Previous Section (会話型 UX の問題点) ](/guides/issues.md)
+[Previous Section (一般的な UX のメトリクス)](/guides/metrics.md)

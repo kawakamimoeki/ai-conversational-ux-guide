@@ -14,4 +14,4 @@
 
 [Previous Section (会話型 UX の特性) ](/guides/attributes.md)
 
-[Next Section (Fallback) ](/guides/fallback.md)
+[Next Section (一般的な UX のメトリクス) ](/guides/metrics.md)
