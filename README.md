@@ -3,7 +3,7 @@
 言語モデルを利用したアプリケーションの普及により、アプリケーション開発者は、未知なる会話型 UX について考えることになりました。
 このガイドでは、言語モデルのアプリケーション上での振る舞いの特性と会話型 UX を設計する際の指針についてまとめています。
 
-## Guide
+## ⛳️ Guide 
 
 - [会話型 UX とは](/guides/intro.md)
 - [会話型 UX の採用](/guides/adoption.md)
@@ -11,11 +11,11 @@
 - [会話型 UX の問題点](/guides/issues.md)
 - [Fallback](/guides/fallback.md)
 
-## Blogs
+## 📃 Blogs
 
 - [Behind-the-Design: Meet Copilot. When the system is the product; on… | by Microsoft Design | Microsoft Design | Apr, 2023 | Medium](https://medium.com/microsoft-design/behind-the-design-meet-copilot-2c68182a0e70)
 
-## Applications
+## 💻 Applications
 
 - [ChatGPT](https://openai.com/blog/chatgpt)
 - [Bing AI](https://www.microsoft.com/ja-jp/bing?form=MA13FJ)
@@ -24,7 +24,7 @@
 - [STUDIO AI | The new age design tool with WebDesignAI inside.](https://studio.design/?ref=producthunt)
 - [Merchat AI [Beta] | Mercari](https://www.mercari.com/merchat/)
 
-## Contributing
+## 🤝 Contributing
 
 Feel free to open a PR if you think something is missing here. Always welcome feedback and suggestions. Just open an issue!
 
