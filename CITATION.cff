@@ -1,0 +1,17 @@
+cff-version: 0.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Kawakami"
+    given-names: "Moeki"
+title: "Conversational UX Guide"
+date-released: 2022-12-16
+url: "https://github.com/uxaidev/Conversational-UX-Guide"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Kawakami"
+      given-names: "Elvis"
+  month: 4
+  journal: "https://github.com/uxaidev/Conversational-UX-Guide"
+  title: "Conversational UX Guide"
+  year: 2023
