@@ -1,12 +1,12 @@
-# Contributing to Conversational UX Guide
+# Contributing to AI UX Guide
 
-The goal of the Conversational UX Guide Working Group is to collect, document, and publish best practices for AI Native application. To make them easy to understand, evaluate, and apply, we encode them in a specific structure.
+The goal of the AI UX Guide Working Group is to collect, document, and publish best practices for AI Native application. To make them easy to understand, evaluate, and apply, we encode them in a specific structure.
 
 We welcome your participation, whether you make small or large contributions, for this working group to actively operate.
 
 ## How to Contribute
 
-Please consider contributing to Conversational UX Guide. Below are suggestions on how you can contribute.
+Please consider contributing to AI UX Guide. Below are suggestions on how you can contribute.
 
 - Share opinions and encourage discussion:
   Fresh perspectives, interesting thoughts, or early novel ideas can provoke discussions and produce unpredictable outcomes. Please create Issues to share your opinions on AI Native application-related topics anytime.
