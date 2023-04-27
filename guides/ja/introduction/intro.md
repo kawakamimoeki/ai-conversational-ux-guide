@@ -14,6 +14,13 @@
 
 会話は、メッセージによって構成されます。
 
+```
+system: You are a helpful assistant.
+user: Who won the world series in 2020?
+assistant: The Los Angeles Dodgers won the World Series in 2020.
+user: Where was it played.
+```
+
 ## プロンプト
 
 また、ユーザーからアシスタントへのメッセージは**プロンプト**と呼ばれることが一般的です。

@@ -14,6 +14,13 @@ In a conversational UX, there is a user, an assistant that takes instructions fr
 
 Conversations are composed of messages.
 
+```
+system: You are a helpful assistant.
+user: Who won the world series in 2020?
+assistant: The Los Angeles Dodgers won the World Series in 2020.
+user: Where was it played.
+```
+
 ## Prompt
 
 Messages from the user to the assistant are also commonly referred to as prompts.
