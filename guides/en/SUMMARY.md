@@ -13,9 +13,12 @@
 
 - [Products Patterns](./products/variants.md)
 
+## Settings
 
-## Techniques
+- [Configuring LLM](./settings/llm.md)
 
-- [Fallback](./techniques/fallback.md)
-- [Continue to improve the Assistant](./techniques/kaizen.md)
-- [Allow users to share their usage with each other](./techniques/sharing.md)
+## Features
+
+- [Fallback](./Features/fallback.md)
+- [Continue to improve the Assistant](./Features/kaizen.md)
+- [Allow users to share their usage with each other](./Features/sharing.md)

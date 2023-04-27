@@ -13,8 +13,12 @@
 
 - [プロダクトのパターン](./products/variants.md)
 
-## Techniques
+## Settings
 
-- [フォールバック](./techniques/fallback.md)
-- [アシスタントを改善し続ける](./techniques/kaizen.md)
-- [ユーザー同士で利用状況を共有できるようにする](./techniques/sharing.md)
+- [LLM の設定](./settings/llm.md)
+
+## Features
+
+- [フォールバック](./features/fallback.md)
+- [アシスタントを改善し続ける](./features/kaizen.md)
+- [ユーザー同士で利用状況を共有できるようにする](./features/sharing.md)
