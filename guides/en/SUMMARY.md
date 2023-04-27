@@ -9,6 +9,11 @@
 - [Conversational UX Issues](./basic/issues.md)
 - [General UX Metrics](./basic/metrics.md)
 
+## Products
+
+- [Products Patterns](./products/variants.md)
+
+
 ## Techniques
 
 - [Fallback](./techniques/fallback.md)

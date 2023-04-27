@@ -9,6 +9,10 @@
 - [会話型 UX の課題](./basic/issues.md)
 - [一般的な UX の指標](./basic/metrics.md)
 
+## Products
+
+- [プロダクトのパターン](./products/variants.md)
+
 ## Techniques
 
 - [フォールバック](./techniques/fallback.md)
