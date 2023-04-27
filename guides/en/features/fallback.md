@@ -1,14 +1,24 @@
 # Fallback
 
-It is quite difficult to guess user input patterns, so if your application cannot handle it, you need to fall back to another application or process.
+It is quite difficult to guess user input patterns, so if the application cannot handle them, it is necessary to fallback to another application or process.
 
-Here is an example of this fallback.
+Here are some examples of fallback:
 
-## Directing users to another existing application
+## Redirecting to another application
 
-Here is an example of ChatGPT. Here we do not pass on the full functionality, but only a guiding message.
+Here is an example of ChatGPT. Here, we only provide a message for redirection rather than fully transferring the function.
 
 ```
-Q. Tell me what the weather is like today.
-A. I cannot provide real-time weather information, but to check the latest weather forecast, we recommend you use a weather website or application, or search for "today's weather" on a search engine.
+Q: What is the weather today?
+A: I cannot provide real-time weather information, but I recommend checking weather forecast websites or apps, or searching "today's weather" on a search engine to get the latest information.
 ```
+
+## Displaying the results of an existing process
+
+In the case of Google Bard, for example, Google search results are displayed after the assistant's message.
+
+This combines the results of a process other than the existing LLM to assist the assistant's role.
+
+![google-it](./google-it.png)
+
+Whether to display the results of an existing process without waiting for the user's judgment depends on the situation. While it eliminates the possibility of users leaving while waiting for their judgment, some users may find the results of the fallback annoying.
