@@ -17,6 +17,10 @@
 
 - [Configuring LLM](./settings/llm.md)
 
+## UI
+
+- [Input UI](./ui/input.md)
+
 ## Features
 
 - [Fallback](./Features/fallback.md)
