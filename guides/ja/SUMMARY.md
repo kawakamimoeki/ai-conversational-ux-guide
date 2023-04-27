@@ -25,6 +25,7 @@
 - [入力 UI](./ui/input.md)
 - [アシスタントメッセージ](./ui/assistant-message.md)
 - [待ち時間](./ui/loading.md)
+- [過程の透明性](./ui/transparency.md)
 
 ## Features
 
