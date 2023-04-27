@@ -20,6 +20,7 @@
 ## UI
 
 - [入力 UI](./ui/input.md)
+- [アシスタントメッセージ](./ui/assistant-message.md)
 
 ## Features
 
