@@ -31,3 +31,8 @@
 - [Fallback](./Features/fallback.md)
 - [Continue to improve the Assistant](./Features/kaizen.md)
 - [Allow users to share their usage with each other](./Features/sharing.md)
+
+## References
+
+- [Blogs](./references/blogs.md)
+- [Applications](./references//applications.md)

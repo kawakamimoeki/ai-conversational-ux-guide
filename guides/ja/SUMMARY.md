@@ -31,3 +31,8 @@
 - [フォールバック](./features/fallback.md)
 - [アシスタントを改善し続ける](./features/kaizen.md)
 - [ユーザー同士で利用状況を共有できるようにする](./features/sharing.md)
+
+## References
+
+- [ブログ記事](./references/blogs.md)
+- [アプリケーション](./references//applications.md)
