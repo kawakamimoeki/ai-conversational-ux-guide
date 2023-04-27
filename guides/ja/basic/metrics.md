@@ -23,3 +23,7 @@
 ユーザーの気持ちを質問することで、プロダクトの印象を改善するのに役立ちます。
 Don't be evil (邪悪になるな) の方針の推進になるかもしれません。これは Google の企業行動規範の一つで、
 長期的に見れば、短期的な利益を多少犠牲にしても、世界のために良いことをする会社のほうが、株主として、またその他のあらゆる意味でより良い結果をもたらすという意味が込められています。
+
+---
+
+[The 7 most important UX KPIs and how to measure them - TestingTime](https://www.testingtime.com/en/blog/important-ux-kpis/)
