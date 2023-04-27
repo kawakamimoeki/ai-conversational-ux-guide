@@ -1,36 +1,31 @@
-# Contribution to Conversational UX Guide
+# Contribution to the Conversational UX Guide
 
-The goal of the AI Conversational UX Guide is to collect and document best practices for applications using conversational UX, and to make them publicly available. To facilitate understanding, evaluation, and application, they will be encoded in a specific structure.
+The goal of the AI Conversational UX Guide is to collect and document best practices for applications using conversational UX, and make them publicly available.
+To ensure this organization remains active, we welcome your participation, from small to large contributions.
 
-To make this organization active, we are waiting for your participation, from small to big contributions.
+## How to Contribute
 
-## Ways to Contribute
+Consider contributing to the AI Conversational UX Guide. Here are some proposals on how you can contribute:
 
-Consider contributing to the AI Conversational UX Guide. Here are some suggestions on how you can contribute:
-
-- Share your opinions and spark discussions:
-  Fresh perspectives, interesting thoughts, or initial innovative ideas can stimulate discussions and lead to unpredictable results. You can share your opinions on topics related to conversational UX applications by creating an issue at any time.
+- Share your thoughts and encourage discussion:
+  Fresh perspectives, interesting ideas, or even early innovative ideas can spark discussions and lead to unexpected outcomes. Feel free to share your opinions at any time on topics related to conversational UX applications by creating Issues.
 - Read and improve existing patterns:
-  It is recommended to start by reading the existing patterns and materials in this repository. Did you find any confusing phrases or bad grammar? Is there an error in the content? Create a GitHub issue or propose a direct fix as a pull request.
+  We recommend starting by reading existing patterns or materials in this repository. Did you find any confusing phrases or bad grammar? Are there errors in the content? Create an issue or propose direct corrections as pull requests.
 - Confirm the use of patterns:
-  By confirming that multiple organizations are using a pattern, you can increase its relevance and let other adopters know that it has been proven. If you are using any of the publicly available patterns, list your organization as a known instance of that pattern and describe your experience applying it.
+  By confirming that multiple organizations are using a pattern, its relevance increases, and other adopters can be informed that the pattern has been proven. If you are using any of the publicly available patterns, list your organization as a known instance of that pattern and describe your experience applying it.
 - Translate existing patterns:
-  When introducing conversational UX applications in your region, language barriers can become a problem. Therefore, it is very valuable to make sure that people in your region/organization can understand conversational UX in their native language. See the translation guidelines for translating patterns into other languages.
+  If you are introducing conversational UX applications in your region, language barriers may be a problem. Therefore, making sure that people in your region/organization can understand conversational UX in their native language is very valuable. For guidance on translating patterns into other languages, please refer to the translation instructions.
 - Review open pull requests:
-  Feedback on existing pull requests (especially those proposing changes to pattern content) is beneficial to the creator, even if you do not know the details of the pattern working group. As a learner of conversational UX, you can express your opinion from the perspective of future readers. As someone with experience in conversational UX, you can share your experience with the author.
+  Feedback on existing pull requests is helpful to their creators. As someone with experience in conversational UX, you can share your experience with the author.
 
 ## Contact Information
 
-Please contact us at [hi@uxai.dev](mailto:hi@uxai.dev).
+Please contact hi@uxai.dev.
 
-## License and Contributions
+## License and Contribution
 
-The content in this repository is licensed under MIT. By contributing to this repository, you give us (and everyone else) the right to use your contributions under this license.
-
-## Acknowledgments for Contributions
-
-If you list yourself as the author of a pattern, it is assumed that you allow it to be referenced when referring to that pattern.
+The content of this repository is licensed under MIT. By contributing to this repository, you give us the right to use your contribution under this license.
 
 ## Code of Conduct
 
-There is no formal code of conduct yet, but we expect all contributors to respect each other and contribute to protecting this community from harassment and discrimination.
+All contributors should respect each other and strive for cooperative behavior.
