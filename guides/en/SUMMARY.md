@@ -24,6 +24,7 @@
 
 - [Input UI](./ui/input.md)
 - [Assistant Message](./ui/assistant-message.md)
+- [Waiting time](./ui/loading.md)
 
 ## Features
 

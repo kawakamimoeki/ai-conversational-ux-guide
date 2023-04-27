@@ -24,6 +24,7 @@
 
 - [入力 UI](./ui/input.md)
 - [アシスタントメッセージ](./ui/assistant-message.md)
+- [待ち時間](./ui/loading.md)
 
 ## Features
 
