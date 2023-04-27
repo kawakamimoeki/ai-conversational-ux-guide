@@ -9,7 +9,6 @@
 
 - [Adoption of Conversational UX](./basic/adoption.md)
 - [Conversational UX Characteristics](./basic/attributes.md)
-- [Conversational UX Issues](./basic/issues.md)
 - [General UX Metrics](./basic/metrics.md)
 
 ## Products
