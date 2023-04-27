@@ -12,3 +12,5 @@
 ## Techniques
 
 - [Fallback](./techniques/fallback.md)
+- [Continue to improve the Assistant](./techniques/kaizen.md)
+- [Allow users to share their usage with each other](./techniques/sharing.md)

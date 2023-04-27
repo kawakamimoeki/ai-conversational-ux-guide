@@ -12,3 +12,5 @@
 ## Techniques
 
 - [フォールバック](./techniques/fallback.md)
+- [アシスタントを改善し続ける](./techniques/kaizen.md)
+- [ユーザー同士で利用状況を共有できるようにする](./techniques/sharing.md)
