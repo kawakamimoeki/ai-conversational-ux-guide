@@ -26,6 +26,7 @@
 - [Waiting time](./ui/loading.md)
 - [Transparency in the Process](./ui/transparency.md)
 - [Visual Identity](./ui/visual-identity.md)
+- [Differentiating from conventional UI](./ui/differentiation.md)
 
 ## Features
 

@@ -8,6 +8,8 @@ Additionally, the effectiveness of visual identity can be recognized from the pe
 
 Visual identity doesn't necessarily have to be concrete. Even if the visual identity is abstract, users can feel the assistant's presence through conversation.
 
+In addition, AI visuals commonly utilize "emitting bodies". By conforming to these patterns, it is possible to reduce the user's learning costs.
+
 Below are some examples of assistant visual identities:
 
 ![ChatGPT](./chatgpt.png)

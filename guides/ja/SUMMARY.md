@@ -26,6 +26,7 @@
 - [待ち時間](./ui/loading.md)
 - [過程の透明性](./ui/transparency.md)
 - [ビジュアルアイデンティティ](./ui/visual-identity.md)
+- [従来の UI との差別化](./ui/differentiation.md)
 
 ## Features
 
