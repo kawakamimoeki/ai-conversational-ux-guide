@@ -1,6 +1,6 @@
 # Fallback
 
-As mentioned in [Conversational UX Issues](/guides/en/issues.md), it is quite difficult to guess user input patterns, so if your application cannot handle it, you need to fall back to another application or process.
+It is quite difficult to guess user input patterns, so if your application cannot handle it, you need to fall back to another application or process.
 
 Here is an example of this fallback.
 
