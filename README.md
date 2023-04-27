@@ -5,6 +5,10 @@
 The proliferation of applications that use language models has caused application developers to consider the unknown conversational UX.
 This guide summarizes the characteristics of how language models behave in applications and provides guidelines for designing conversational UX.
 
+## ⛳️ Guide
+
+- [AI Conversational UX Guide](https://uxguide.uxai.dev/)
+
 ## 📃 Blogs
 
 - [Behind-the-Design: Meet Copilot. When the system is the product; on… | by Microsoft Design | Microsoft Design | Apr, 2023 | Medium](https://medium.com/microsoft-design/behind-the-design-meet-copilot-2c68182a0e70)
