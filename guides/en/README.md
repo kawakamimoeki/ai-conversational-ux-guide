@@ -1,6 +1,6 @@
-# AI UX Guide
+# AI Conversational UX Guide
 
-![AI UX Guide](./main.png)
+![AI Conversational UX Guide](./main.png)
 
 The proliferation of applications that use language models has caused application developers to consider the unknown conversational UX.
 This guide summarizes the characteristics of how language models behave in applications and provides guidelines for designing conversational UX.

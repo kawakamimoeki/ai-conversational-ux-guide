@@ -1,6 +1,6 @@
-# AI UX Guide
+# AI Conversational UX Guide
 
-![AI UX Guide](./main.png)
+![AI Conversational UX Guide](./main.png)
 
 言語モデルを利用したアプリケーションの普及により、アプリケーション開発者は、未知なる会話型 UX について考えることになりました。
 このガイドでは、言語モデルのアプリケーション上での振る舞いの特性と会話型 UX を設計する際の指針についてまとめています。
