@@ -26,6 +26,7 @@
 - [アシスタントメッセージ](./ui/assistant-message.md)
 - [待ち時間](./ui/loading.md)
 - [過程の透明性](./ui/transparency.md)
+- [ビジュアルアイデンティティ](./ui/visual-identity.md)
 
 ## Features
 

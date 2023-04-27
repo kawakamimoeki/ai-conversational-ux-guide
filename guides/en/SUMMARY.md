@@ -26,6 +26,7 @@
 - [Assistant Message](./ui/assistant-message.md)
 - [Waiting time](./ui/loading.md)
 - [Transparency in the Process](./ui/transparency.md)
+- [Visual Identity](./ui/visual-identity.md)
 
 ## Features
 
