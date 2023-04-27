@@ -1,3 +1,6 @@
+- [Hello!](./README.md)
+- [Contributing](./CONTRIBUTING.md)
+
 ## Introduction
 
 - [What is Conversational UX?](./introduction/intro.md)
