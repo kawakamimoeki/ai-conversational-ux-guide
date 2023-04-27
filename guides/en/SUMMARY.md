@@ -1,4 +1,4 @@
-- [Hello!](./README.md)
+- [AI Conversational UX Guide](./README.md)
 - [Contributing](./CONTRIBUTING.md)
 
 ## Introduction
