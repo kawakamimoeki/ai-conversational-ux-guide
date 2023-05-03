@@ -10,29 +10,21 @@
 - [Adoption of Conversational UX](./basic/adoption.md)
 - [Conversational UX Characteristics](./basic/attributes.md)
 - [General UX Metrics](./basic/metrics.md)
-
-## Products
-
-- [Products Patterns](./products/variants.md)
-
-## Settings
-
+- [Products Patterns](./basic/variants.md)
 - [Configuring LLM](./settings/llm.md)
 
-## UI
+## Techniques
 
-- [Input UI](./ui/input.md)
-- [Assistant Message](./ui/assistant-message.md)
-- [Waiting time](./ui/loading.md)
-- [Transparency in the Process](./ui/transparency.md)
-- [Visual Identity](./ui/visual-identity.md)
-- [Differentiating from conventional UI](./ui/differentiation.md)
-
-## Features
-
-- [Fallback](./Features/fallback.md)
-- [Continue to improve the Assistant](./Features/kaizen.md)
-- [Allow users to share their usage with each other](./Features/sharing.md)
+- [Input UI](./techniques/input.md)
+- [Assistant Message](./techniques/assistant-message.md)
+- [Waiting time](./techniques/loading.md)
+- [Unrestricted Context](./techniques/context.md)
+- [Transparency in the Process](./techniques/transparency.md)
+- [Visual Identity](./techniques/visual-identity.md)
+- [Differentiating from conventional UI](./techniques/differentiation.md)
+- [Fallback](./techniques/fallback.md)
+- [Continue to improve the Assistant](./techniques/kaizen.md)
+- [Allow users to share their usage with each other](./techniques/sharing.md)
 
 ## References
 
