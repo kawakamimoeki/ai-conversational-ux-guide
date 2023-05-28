@@ -7,7 +7,7 @@ This guide summarizes the characteristics of how language models behave in appli
 
 ## ⛳️ Guide
 
-- [AI Conversational UX Guide](https://uxai.moeki.dev)
+- [AI Conversational UX Guide](https://uxai.gitbook.io/guides)
 
 ## 📃 Blogs
 
