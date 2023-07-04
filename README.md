@@ -1,13 +1,17 @@
 # AI Conversational UX Guide
 
+[AI Conversational UX Guide](https://uxai.gitbook.io/guides)
+
 ![AI Conversational UX Guide](./visual.png)
 
 The proliferation of applications that use language models has caused application developers to consider the unknown conversational UX.
 This guide summarizes the characteristics of how language models behave in applications and provides guidelines for designing conversational UX.
 
+
+
 ## ⛳️ Guide
 
-- [AI Conversational UX Guide](https://uxai.gitbook.io/guides)
+- [Introduction to guidelines for human-AI interaction - Human-AI interaction guidelines | Microsoft Learn](https://learn.microsoft.com/en-us/ai/guidelines-human-ai-interaction/)
 
 ## 📃 Blogs
 
